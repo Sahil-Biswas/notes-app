@@ -2,7 +2,7 @@
 
 **Student Name:** _Sahil Biswas_
 **Student Roll No:** _2026201059_
-**GitHub Repository:** _[Paste your repo link here]_
+**GitHub Repository:** _https://github.com/Sahil-Biswas/notes-app_
 
 A full-stack CRUD notes application built with MongoDB, Express, React (Vite), and Node.js.
 
